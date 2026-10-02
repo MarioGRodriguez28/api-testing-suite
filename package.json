@@ -1,0 +1,27 @@
+{
+  "name": "api-testing-suite",
+  "version": "1.0.0",
+  "description": "Comprehensive test suite for JSONPlaceholder API demonstrating QA automation expertise",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch",
+    "test:coverage": "jest --coverage",
+    "test:api": "jest tests/api",
+    "test:e2e": "jest tests/e2e"
+  },
+  "keywords": [
+    "qa",
+    "testing",
+    "automation",
+    "api-testing",
+    "jest",
+    "supertest"
+  ],
+  "author": "Mario Rodríguez",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "supertest": "^6.3.3"
+  }
+}
