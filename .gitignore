@@ -15,3 +15,5 @@ yarn-error.log*
 *.swo
 *~
 .nyc_output/
+netlify-deploy/
+mario-rodriguez-landing.html
