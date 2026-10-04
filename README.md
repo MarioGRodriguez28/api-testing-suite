@@ -1,5 +1,7 @@
 # API Testing Suite
 
+[![CI](https://github.com/MarioGRodriguez28/api-testing-suite/actions/workflows/test.yml/badge.svg)](https://github.com/MarioGRodriguez28/api-testing-suite/actions/workflows/test.yml)
+
 A comprehensive test suite demonstrating professional QA automation practices using Jest and Supertest against the JSONPlaceholder public API.
 
 ## Overview
