@@ -224,3 +224,7 @@ MIT
 ## Author
 
 Mario Rodríguez - QA Automation Engineer
+
+---
+
+Part of my [QA automation portfolio](https://github.com/MarioGRodriguez28/qa-portfolio-docs). More about my work at [mariogrodriguez.com](https://mariogrodriguez.com).
